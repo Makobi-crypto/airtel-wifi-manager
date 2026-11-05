@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database and logs (contains live network traffic & user history)
+data/
+*.db
+*.sqlite3
+*.log
+server.log
+
+# Environments
+.env
+venv/
+.venv/
+env/
